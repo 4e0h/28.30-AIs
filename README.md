@@ -1,5 +1,5 @@
 ## A gameserver for v28.30 with player AIs
-### If you would like to skid pls credit me, ducki, ploosh, pongo, and ralzify <3
+### If you would like to skid pls credit me, 15bandit, ploosh, pongo, and ralzify <3
 
 <details>
   <summary>Quick Commands</summary>
